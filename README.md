@@ -11,3 +11,8 @@
 
 
 ## Documentation
+
+### Code Style Guide
+
+- [JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [CSS / Sass Styleguide](https://github.com/airbnb/css)
